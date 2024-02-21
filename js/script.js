@@ -56,7 +56,7 @@ const loop = setInterval(() => {
 
         miet.src = './images/gameover.png';
         miet.style.width ='300px';
-        miet.style.marginLeft ='500px';
+        miet.style.marginLeft ='0px';
 
         clearInterval(loop);
     }
